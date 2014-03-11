@@ -1,0 +1,9 @@
+departments:
+  dev:
+    team:
+    domain:
+    api_token:
+    api_secret:
+    statuses: ["New"]
+    warning_threshold: 10
+    danger_threshold: 20
